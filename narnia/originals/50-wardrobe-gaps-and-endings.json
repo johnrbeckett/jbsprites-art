@@ -1,0 +1,404 @@
+{
+  "sheet": "50-wardrobe-gaps-and-endings.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Professor Kirke, bushy beard, gesturing to make a point",
+      "characters": [
+        "professor-kirke"
+      ],
+      "view": "full-body",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Professor Kirke at a study desk heaped with books",
+      "characters": [
+        "professor-kirke"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Mrs Macready, keys in hand, barring a door",
+      "characters": [
+        "mrs-macready"
+      ],
+      "view": "full-body",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Mrs Macready checking her watch, keys jangling",
+      "characters": [
+        "mrs-macready"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Giant Rumblebuffin handing a big parcel down to Lucy",
+      "characters": [
+        "rumblebuffin",
+        "lucy"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Rumblebuffin mopping his brow with a huge handkerchief",
+      "characters": [
+        "rumblebuffin"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Lucy peeking out between the coats in the wardrobe",
+      "characters": [
+        "lucy"
+      ],
+      "view": "portrait",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Lucy knocking on the wardrobe's plain wooden back",
+      "characters": [
+        "lucy"
+      ],
+      "view": "full-body",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Lucy giving a drop of cordial to a tired colleague",
+      "characters": [
+        "lucy"
+      ],
+      "view": "scene",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Edmund, hat in hand, apologising",
+      "characters": [
+        "edmund"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Edmund at a frosted desk with a dark screen",
+      "characters": [
+        "edmund"
+      ],
+      "view": "full-body",
+      "moments": [
+        "offline"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Edmund being knighted, sword on his shoulder",
+      "characters": [
+        "edmund",
+        "peter"
+      ],
+      "view": "scene",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Susan checking her wristwatch, sensible",
+      "characters": [
+        "susan"
+      ],
+      "view": "portrait",
+      "moments": [
+        "timed-out"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Susan aiming her bow at a target, focused",
+      "characters": [
+        "susan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Susan in a raincoat with an umbrella",
+      "characters": [
+        "susan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Peter waving from a train carriage window",
+      "characters": [
+        "peter"
+      ],
+      "view": "portrait",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "The four adult Pevensies hiding around an empty armchair, Peter and Edmund behind it, Lucy and Susan crouched outside the arms",
+      "characters": [
+        "lucy",
+        "peter",
+        "susan",
+        "edmund"
+      ],
+      "view": "scene",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "The Pevensies tumbling out of the wardrobe",
+      "characters": [
+        "lucy",
+        "peter",
+        "susan",
+        "edmund"
+      ],
+      "view": "scene",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Lucy and Susan riding on Aslan's back",
+      "characters": [
+        "lucy",
+        "susan",
+        "aslan"
+      ],
+      "view": "scene",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Dripping icicles and crocuses in the thaw",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "morning-brief"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "A picnic blanket in a summer meadow",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Mr Beaver patching a leak in the dam",
+      "characters": [
+        "mr-beaver"
+      ],
+      "view": "full-body",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Mrs Beaver insisting on packing her sewing machine",
+      "characters": [
+        "mrs-beaver"
+      ],
+      "view": "full-body",
+      "moments": [
+        "timed-out"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "A sledge stuck in melting slush",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Lucy waving goodbye beside the lamppost",
+      "characters": [
+        "lucy"
+      ],
+      "view": "full-body",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "sheet": "54-reepicheep-and-mouse-colleagues.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Reepicheep greeting with courteous bow",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Reepicheep delivering envelope in paws",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Reepicheep writing with oversize pen",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Reepicheep and grey mouse operating a vintage slide projector",
+      "characters": [
+        "reepicheep",
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Reepicheep holds a tiny ladder while cream mouse retrieves notebook from shelf",
+      "characters": [
+        "reepicheep",
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Grey mouse colleague sorting letters",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "email"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Cream mouse colleague examining tiny cable",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "offline"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Brown mouse colleague carrying notebook",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Grey and brown mouse colleagues leaning together against closed lift doors, feet on floor",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Cream mouse colleague offering pen",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Reepicheep searching empty file box",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Reepicheep disentangling ribbon",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Reepicheep standing upright with paw over heart, quiet proud smile",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Reepicheep small victorious raised paw",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Reepicheep closing a portable manual typewriter case",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Two mouse colleagues unrolling a large blueprint on floor, each holding one end",
+      "characters": [
+        "reepicheep",
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "design"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Cream and grey mouse colleagues working together to wind cable onto spool",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Brown mouse and cream mouse carrying a ruler like a bridge between two small blocks",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Reepicheep thoughtful head portrait",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Reepicheep smiling head portrait",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "portrait",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Reepicheep and grey mouse reviewing map",
+      "characters": [
+        "reepicheep",
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Two mouse colleagues handing off envelope",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Three mouse colleagues carrying large briefcase together",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Reepicheep and cream mouse comparing blank checklists",
+      "characters": [
+        "reepicheep",
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-review"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Reepicheep and two mouse colleagues sharing tea",
+      "characters": [
+        "reepicheep",
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    }
+  ]
+}

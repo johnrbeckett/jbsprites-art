@@ -1,0 +1,394 @@
+{
+  "sheet": "56-rishda-operations-office.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Rishda rolling up sleeves ready for operations",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Rishda pulling a compact handcart loaded with parcels",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Rishda plugging a cord into a vintage telephone switchboard",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Rishda assigning colored magnetic tiles on a planning board",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "scheduling"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Rishda using headset while pointing to route map on wall",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Rishda comparing two warehouse crates and a measuring tape",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-review"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Rishda checking parcel weight on a mechanical parcel scale",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-review"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Rishda pushing a lever on small mechanical conveyor",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Rishda kneeling to tighten wheel of office trolley with wrench",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Rishda holding two disconnected network cable ends apart",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "offline"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Rishda finding an empty fitted slot inside an equipment case",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Rishda stopped before striped portable barrier, hand on hip",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Rishda catching a toppling stack of three storage boxes",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Rishda pulling red tangled cable from compact reel",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Rishda tapping shoe with folded arms beside closed lift doors",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Rishda presenting two differently colored route cards for a choice",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Rishda clipping shut a fully packed equipment case",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Rishda launching a paper airplane from a dispatch platform",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Rishda hanging suit jacket on coat stand at end of day",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Rishda relieved laugh loosening tie, head and shoulders",
+      "characters": [
+        "rishda-tarkaan"
+      ],
+      "view": "portrait",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Color coded shipping parcels on a hand trolley",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Vintage radio communications set with handset and disconnected cable",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "offline"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Route map marked with colored pins and dotted paths",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "scheduling"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Tool roll open with pliers wrench and cable tester",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Portable striped barrier and padlock",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    }
+  ]
+}

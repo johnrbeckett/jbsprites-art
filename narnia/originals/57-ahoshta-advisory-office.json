@@ -1,0 +1,388 @@
+{
+  "sheet": "57-ahoshta-advisory-office.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Ahoshta making room at small meeting table, welcoming open hand",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Ahoshta stamping a single form with a green check symbol",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Ahoshta comparing two long rolled contracts with spectacles low on nose",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Ahoshta applying red correction marks to a draft on a sloped writing stand, no words",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Ahoshta placing colored bookmarks along an enormous rulebook",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-review"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Ahoshta negotiating with a tabletop balance scale and two folders",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "money"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Ahoshta holding three empty signature tabs out toward viewer",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Ahoshta reaching for a stamp just beyond his fingertips across desk",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Ahoshta pulling a very long accordion fold form out of a drawer",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-list"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Ahoshta searching a cabinet drawer with an empty outlined folder slot",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Ahoshta feeding one crumpled draft into a small shredder",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Ahoshta startled at red ink spilled across his fingertips",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Ahoshta waiting on upholstered bench with queue ticket showing only a circle",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Ahoshta using rotary phone while covering mouth to whisper",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Ahoshta tying accepted document bundle with blue ribbon",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Ahoshta dramatically raising both hands above finally completed tower of binders",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "portrait",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Ahoshta putting spectacles into case and folding it shut",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "portrait",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Ahoshta holding a large sealed scroll behind his back with smug smile",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Ahoshta peering over spectacles, head and shoulders",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Ahoshta pinching bridge of nose, glasses in other hand, head and shoulders",
+      "characters": [
+        "ahoshta"
+      ],
+      "view": "portrait",
+      "moments": [
+        "timed-out"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Wooden carousel holding four rubber stamps with simple symbols",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-review"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Accordion fold blank contract snaking across floor",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Small shredder with crumpled draft entering slot",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Blue ribbon tied around neatly indexed binder stack",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Empty spectacles case beside folded reading glasses",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    }
+  ]
+}

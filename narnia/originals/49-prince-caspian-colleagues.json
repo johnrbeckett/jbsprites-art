@@ -1,0 +1,413 @@
+{
+  "sheet": "49-prince-caspian-colleagues.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Trufflehunter the badger, kind, by a hearth",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "full-body",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Trufflehunter writing names into a ledger",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-add"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Trufflehunter dozing in an armchair",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Nikabrik the dwarf grumbling, arms folded",
+      "characters": [
+        "nikabrik"
+      ],
+      "view": "full-body",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Nikabrik squinting suspiciously at a document",
+      "characters": [
+        "nikabrik"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-review"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Pattertwig jogging upright with a sealed envelope held in both front paws",
+      "characters": [
+        "pattertwig"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Pattertwig chattering into a phone on a branch",
+      "characters": [
+        "pattertwig"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "mobile"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Pattertwig sorting acorns into jars",
+      "characters": [
+        "pattertwig"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "money"
+      ],
+      "energy": "moderate",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "King Miraz drumming his fingers, out of patience",
+      "characters": [
+        "miraz"
+      ],
+      "view": "portrait",
+      "moments": [
+        "timed-out"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Three Bulgy Bears asleep in a heap",
+      "characters": [
+        "bulgy-bear"
+      ],
+      "view": "scene",
+      "moments": [
+        "offline"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "A Bulgy Bear sucking his paw, thinking",
+      "characters": [
+        "bulgy-bear"
+      ],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Dryads dancing among blossoming trees",
+      "characters": [
+        "dryad"
+      ],
+      "view": "scene",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Aslan's How, a grassy mound with a stone door",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Caspian blowing Susan's horn",
+      "characters": [
+        "caspian"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Lucy pointing while the others shrug, seeing nothing",
+      "characters": [
+        "lucy",
+        "peter",
+        "susan",
+        "edmund"
+      ],
+      "view": "scene",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Edmund lighting a pocket lamp in old ruins",
+      "characters": [
+        "edmund"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Peter writing a formal letter",
+      "characters": [
+        "peter"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Peter and Caspian shaking hands",
+      "characters": [
+        "peter",
+        "caspian"
+      ],
+      "view": "scene",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Ruined Cair Paravel among apple trees",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "The Pevensies on a station bench as their luggage lifts away",
+      "characters": [
+        "lucy",
+        "peter",
+        "susan",
+        "edmund"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Reepicheep admiring his restored tail",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Pattertwig and Trufflehunter planning over a map",
+      "characters": [
+        "pattertwig",
+        "trufflehunter"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Trufflehunter offering a warm loaf",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": [
+        "thanksgiving"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Cornelius showing Caspian the stars from a tower",
+      "characters": [
+        "doctor-cornelius",
+        "caspian"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "A crown on a cushion, ready",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    }
+  ]
+}

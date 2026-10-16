@@ -1,0 +1,413 @@
+{
+  "sheet": "46-horse-and-his-boy-colleagues.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Shasta on Bree, waving",
+      "characters": [
+        "shasta",
+        "bree"
+      ],
+      "view": "scene",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Aravis riding Hwin, composed and upright",
+      "characters": [
+        "aravis",
+        "hwin"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Shasta with a satchel at a fork in the road",
+      "characters": [
+        "shasta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Shasta fishing from a small boat",
+      "characters": [
+        "shasta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "energy": "subdued",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Aravis writing a letter, perfect posture",
+      "characters": [
+        "aravis"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Aravis and Lasaraleen whispering over tea",
+      "characters": [
+        "aravis",
+        "lasaraleen"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Lasaraleen buried in shopping parcels",
+      "characters": [
+        "lasaraleen"
+      ],
+      "view": "full-body",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Rabadash turned into a donkey, still wearing his crown, aghast",
+      "characters": [
+        "rabadash"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Rabadash the donkey refusing to budge",
+      "characters": [
+        "rabadash"
+      ],
+      "view": "full-body",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Corin vaulting a fence, grinning",
+      "characters": [
+        "corin"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Shasta and Corin, identical twins, comparing notebooks",
+      "characters": [
+        "shasta",
+        "corin"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-review"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "King Lune, stout and beaming, arms wide",
+      "characters": [
+        "king-lune"
+      ],
+      "view": "full-body",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "King Lune carving at a harvest table",
+      "characters": [
+        "king-lune"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": [
+        "thanksgiving"
+      ]
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "The Hermit looking into his still pool",
+      "characters": [
+        "hermit"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "The Hermit tending goats, calm",
+      "characters": [
+        "hermit"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Shasta lost in fog on a mountain pass",
+      "characters": [
+        "shasta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Shasta running with an urgent message",
+      "characters": [
+        "shasta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Bree rolling on his back in the grass, relieved",
+      "characters": [
+        "bree"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Aravis and Hwin sharing a quiet moment at dusk",
+      "characters": [
+        "aravis",
+        "hwin"
+      ],
+      "view": "scene",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Miniature of domed Tashbaan on a desk",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Shasta asleep against warm golden Aslan",
+      "characters": [
+        "shasta",
+        "aslan"
+      ],
+      "view": "scene",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Shasta and Aravis at a shared desk, both working",
+      "characters": [
+        "shasta",
+        "aravis"
+      ],
+      "view": "scene",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "The Tisroc's cushioned divan",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Bree admiring his reflection in a mirror",
+      "characters": [
+        "bree"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "design"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Corin waving from a palace balcony among falling leaves",
+      "characters": [
+        "corin"
+      ],
+      "view": "full-body",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": [
+        "autumn"
+      ]
+    }
+  ]
+}

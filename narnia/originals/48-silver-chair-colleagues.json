@@ -1,0 +1,401 @@
+{
+  "sheet": "48-silver-chair-colleagues.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Prince Rilian bowing politely in a dark suit",
+      "characters": [
+        "rilian"
+      ],
+      "view": "full-body",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Rilian stepping free of a silver chair, relieved",
+      "characters": [
+        "rilian"
+      ],
+      "view": "full-body",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Rilian searching the horizon for his father's ship",
+      "characters": [
+        "rilian"
+      ],
+      "view": "full-body",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "The Lady of the Green Kirtle offering a tempting green button",
+      "characters": [
+        "green-lady"
+      ],
+      "view": "full-body",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Puddleglum tending a small smoky hearth with a poker",
+      "characters": [
+        "puddleglum"
+      ],
+      "view": "full-body",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Golg the gnome leaping for joy with a lantern",
+      "characters": [
+        "golg"
+      ],
+      "view": "full-body",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Earthmen in single file, each with a lantern",
+      "characters": [
+        "golg"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-list"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "An Underland lamp gone out",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "offline"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Father Time, a huge giant, asleep",
+      "characters": [
+        "father-time"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Father Time waking and stretching",
+      "characters": [
+        "father-time"
+      ],
+      "view": "full-body",
+      "moments": [
+        "morning-brief"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Jill, Eustace and Puddleglum untangling a long rope",
+      "characters": [
+        "jill",
+        "eustace",
+        "puddleglum"
+      ],
+      "view": "scene",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Jill whistling for a messenger owl",
+      "characters": [
+        "jill",
+        "owl"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "email"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Glimfeather carrying Jill safely in a sling",
+      "characters": [
+        "glimfeather",
+        "jill"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Puddleglum gloomily tapping a barometer",
+      "characters": [
+        "puddleglum"
+      ],
+      "view": "full-body",
+      "moments": [
+        "morning-brief"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Snowy steps of a ruined giant city",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "The silver chair standing empty",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Jill and Eustace slipping through a door in a stone wall",
+      "characters": [
+        "jill",
+        "eustace"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Old Trumpkin cupping his ear, waiting for an answer",
+      "characters": [
+        "trumpkin"
+      ],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Rilian, crowned, going through a ledger",
+      "characters": [
+        "rilian"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-review"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Jill and Puddleglum sharing a flask of tea at night",
+      "characters": [
+        "jill",
+        "puddleglum"
+      ],
+      "view": "scene",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Puddleglum fishing on a misty autumn marsh",
+      "characters": [
+        "puddleglum"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Earthmen dancing with lanterns",
+      "characters": [
+        "golg"
+      ],
+      "view": "scene",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": [
+        "new-year"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "A parliament of owls meeting in a tower",
+      "characters": [
+        "owl",
+        "glimfeather"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Jill sliding down a long chute, surprised",
+      "characters": [
+        "jill"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Puddleglum with a bandaged foot, smiling anyway",
+      "characters": [
+        "puddleglum"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    }
+  ]
+}

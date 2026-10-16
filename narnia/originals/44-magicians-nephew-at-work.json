@@ -1,0 +1,409 @@
+{
+  "sheet": "44-magicians-nephew-at-work.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Digory, tousled hair, shirt and tie, waving",
+      "characters": [
+        "digory"
+      ],
+      "view": "full-body",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Polly, neat bob, cardigan, holding a notebook",
+      "characters": [
+        "polly"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Digory and Polly shaking hands over a garden wall",
+      "characters": [
+        "digory",
+        "polly"
+      ],
+      "view": "scene",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Polly crawling through an attic tunnel with a lantern",
+      "characters": [
+        "polly"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Digory examining a gold ring held in one visible hand, other hand outside portrait",
+      "characters": [
+        "digory"
+      ],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Polly slipping on a green ring to pass the job along",
+      "characters": [
+        "polly"
+      ],
+      "view": "hands",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Digory and Polly jumping hand in hand into a pool",
+      "characters": [
+        "digory",
+        "polly"
+      ],
+      "view": "scene",
+      "moments": [
+        "start",
+        "sent"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Digory dozing at the edge of a quiet woodland pool",
+      "characters": [
+        "digory"
+      ],
+      "view": "full-body",
+      "moments": [
+        "timed-out",
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Digory, hand hovering over a small golden bell and hammer",
+      "characters": [
+        "digory"
+      ],
+      "view": "full-body",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Digory wincing as the bell rings",
+      "characters": [
+        "digory"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Polly holding Digory back by the sleeve",
+      "characters": [
+        "digory",
+        "polly"
+      ],
+      "view": "scene",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Jadis, tall queen of Charn, at a grand stone desk",
+      "characters": [
+        "white-witch"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Jadis scowling at a bent lamppost crossbar in her hand",
+      "characters": [
+        "white-witch"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Uncle Andrew stuck upside down in a sapling, flustered",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "view": "full-body",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Frank the cabby in a bowler hat beside his horse",
+      "characters": [
+        "frank"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Frank, newly crowned, reading petitions at a plain desk",
+      "characters": [
+        "frank"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-review"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Frank and Helen crowned side by side, waving",
+      "characters": [
+        "frank"
+      ],
+      "view": "scene",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Fledge, the winged horse, spreading new wings",
+      "characters": [
+        "fledge"
+      ],
+      "view": "full-body",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Fledge flying with Digory and Polly on his back",
+      "characters": [
+        "fledge",
+        "digory",
+        "polly"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Fledge grazing beside an empty bench",
+      "characters": [
+        "fledge"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Digory carrying a silver apple carefully in both hands",
+      "characters": [
+        "digory"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Digory planting a seedling in fresh soil",
+      "characters": [
+        "digory"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Polly adding small potted saplings to a tidy shelf",
+      "characters": [
+        "polly"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-add"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Digory searching an empty attic cupboard by candlelight",
+      "characters": [
+        "digory"
+      ],
+      "view": "full-body",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Polly, thumbs up beside a tray of rings",
+      "characters": [
+        "polly"
+      ],
+      "view": "portrait",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    }
+  ]
+}

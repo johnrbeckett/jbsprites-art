@@ -1,0 +1,368 @@
+{
+  "sheet": "51-later-books-objects-and-places.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "The Wood between the Worlds: quiet pools among trees",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "A golden bell and small hammer on a pillar",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Yellow and green rings in two trays",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "A silver apple on a velvet cushion",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "A young lamppost sprouting from the ground",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "subdued",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Vintage manual typewriter with blank paper in carriage",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Tipped inkpot, feather pen and blank papers stained with spilled ink on a small writing board",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Miniature domes of Tashbaan",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "The Hermit's still pool",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "A mountain pass lost in fog",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "A ship's log and quill on a chart table",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "A sea of white lilies at the world's end",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Ramandu's long table laid for a feast",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": [
+        "thanksgiving"
+      ]
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "A magician's book glowing on a lectern",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "A mountain of paperwork tied with string",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Wooden cabinet wireless radio with fabric grille and tuning knobs",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "A broken silver chair",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "A wigwam on the marsh with a thread of smoke",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "The stone door of Aslan's How",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "A ruined arch with an apple tree in autumn colour",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Snow on the giant steps of Harfang",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "timed-out"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Lanterns strung between trees for a feast",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": [
+        "new-year"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Mechanical desktop adding machine with lever and curled blank paper strip",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "money"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "A sealed scroll in a leather message tube",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "New notebooks tied with green ribbon",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-add"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    }
+  ]
+}
