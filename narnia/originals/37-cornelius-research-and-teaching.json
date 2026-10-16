@@ -1,0 +1,458 @@
+{
+  "sheet": "37-cornelius-research-and-teaching.png",
+  "width": 1254,
+  "height": 1254,
+  "columns": 5,
+  "rows": 5,
+  "source": "narnia-later-books-300 bundle (revised), 2026-10-16",
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "reading large reference book",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "cross-referencing documents",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "writing fountain-pen notes",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "examining manuscript with magnifier",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "consulting small telescope",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "presenting diagram on easel",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "design",
+        "meetings"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "sorting archive folders",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "checking watch waiting",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "waiting",
+        "waiting-long"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "offering book for clarification",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "looking into empty archive box",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "not-found",
+        "oops"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "revising notes with fresh pencil",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "checking completed research list",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "quietly closing book satisfied",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "packing evening satchel",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "headset call with notebook",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings",
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "peering over glasses head portrait",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "reading book portrait",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "offering pen portrait",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "pondering head portrait",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "small satisfied smile portrait",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "books and spectacles",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "magnifier and manuscript",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "notebook and fountain pen",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing",
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "desk telescope",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "archive box with folders",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    }
+  ]
+}

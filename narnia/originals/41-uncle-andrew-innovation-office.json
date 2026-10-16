@@ -1,0 +1,461 @@
+{
+  "sheet": "41-uncle-andrew-innovation-office.png",
+  "width": 1254,
+  "height": 1254,
+  "columns": 5,
+  "rows": 5,
+  "source": "narnia-later-books-300 bundle (revised), 2026-10-16",
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "presenting yellow and green magic rings in box",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "studying experimental diagram",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical",
+        "meetings"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "typing awkwardly on laptop",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "inspecting prototype magnifier",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical",
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "writing grand proposal",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "sorting investor envelopes",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "money",
+        "email"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "checking watch nervously",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "waiting",
+        "waiting-long"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "offering proposal hopefully",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "startled beside smoking tiny gadget no flames",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "tangled in cable feet visible",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "tangled",
+        "oops"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "restarting experiment with notes",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [
+        "technical",
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "relieved checking clipboard",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "self-satisfied small bow",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "leaving with top hat briefcase",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "presenting unexpected tiny potted tree",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "suspicious raised eyebrow head portrait",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "ring-box portrait",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "sheepish apologetic portrait",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "asking open palm portrait",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "relieved smile head portrait",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "yellow and green rings in velvet box",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "experimental notebook pen",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical",
+        "writing",
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "tiny gadget faint smoke",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "top hat and briefcase",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "potted sapling and diagram",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    }
+  ]
+}

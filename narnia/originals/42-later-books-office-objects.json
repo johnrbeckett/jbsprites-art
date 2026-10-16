@@ -1,0 +1,419 @@
+{
+  "sheet": "42-later-books-office-objects.png",
+  "width": 1536,
+  "height": 1024,
+  "columns": 5,
+  "rows": 5,
+  "source": "narnia-later-books-300 bundle (revised), 2026-10-16",
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Dawn Treader model beside laptop",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "yellow and green magic rings in desk tray",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "silver chair used as office chair",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Reepicheep tiny rapier letter opener",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "email",
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Puddleglum umbrella stand",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Cornelius books and spectacles",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Trumpkin open toolbox",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical",
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Jill camera and field notebook",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "design",
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Bree and Hwin document panniers",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "brown leather office shoe",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "dragon claw ergonomic mouse",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "nautical compass and planner",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "scheduling",
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "star-shaped desk lamp",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "archive cabinet with open drawer",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing",
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "wooden lectern and notes",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings",
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "headset on coiled dragon tail shaped stand",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "mail sorting trays and envelopes",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "email"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "hourglass beside closed laptop",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "waiting",
+        "waiting-long"
+      ],
+      "activities": [
+        "technical",
+        "focus"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "paid invoice stamp and ledger",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "money"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "calendar with green check",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "scheduling"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "paint palette brush and easel",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "design"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "server rack with leaf decoration",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "tea mug and biscuit plate",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "travel suitcase and map",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "closed briefcase and extinguished desk lamp",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    }
+  ]
+}

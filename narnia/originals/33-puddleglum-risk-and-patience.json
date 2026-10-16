@@ -1,0 +1,463 @@
+{
+  "sheet": "33-puddleglum-risk-and-patience.png",
+  "width": 1254,
+  "height": 1254,
+  "columns": 5,
+  "rows": 5,
+  "source": "narnia-later-books-300 bundle (revised), 2026-10-16",
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "studying risk checklist",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "holding umbrella and briefing folder",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings",
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "comparing conflicting reports",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "inspecting unplugged cable ends",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "offline",
+        "oops"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "examining empty folder",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "not-found",
+        "oops"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "reading research book",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "writing contingency plan",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "checking watch resignedly",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "waiting",
+        "waiting-long"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "offering notebook for decision",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "shrugging beside spilled papers",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "rolling sleeves determinedly",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "reluctant small approving nod",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "checking completed list",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "waiting leaning on closed umbrella",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "waiting",
+        "waiting-long"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "departing with coat over arm",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "skeptical raised eyebrow portrait",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "showing empty folder portrait",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "not-found",
+        "oops"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "patient waiting portrait",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "waiting",
+        "waiting-long"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "offering open palm portrait",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "small relieved smile portrait",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "weathered umbrella and briefcase",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "contingency binder",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "watch and hourglass",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "waiting",
+        "waiting-long"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "empty folder and glasses",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "not-found",
+        "oops"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "clipboard green check",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    }
+  ]
+}

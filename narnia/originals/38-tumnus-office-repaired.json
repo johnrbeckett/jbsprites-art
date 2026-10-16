@@ -1,0 +1,456 @@
+{
+  "sheet": "38-tumnus-office-repaired.png",
+  "width": 1254,
+  "height": 1254,
+  "columns": 5,
+  "rows": 5,
+  "source": "narnia-later-books-300 bundle (revised), 2026-10-16",
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "carrying mail sack",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "email"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "carrying books",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "pointing at chart",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "typing on tablet",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "sweeping papers",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "checking list",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "reading map puzzled",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "research",
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "checking watch waiting",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "waiting",
+        "waiting-long"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "offering envelope",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [
+        "email"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "shrugging beside spilled mail",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "email"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "sorting papers again carefully seated",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "checking completed clipboard",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "small thumbs up",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "walking away with briefcase",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "two fauns disagreeing",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "attentive portrait",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "presenting folder portrait",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings",
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "puzzled head scratch portrait",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "asking open palm portrait",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "quietly pleased portrait",
+      "characters": [
+        "tumnus"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "briefcase and fountain pen",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "mail sack",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "email"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "book stack",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "broom and paper pile",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "clipboard oversized pencil",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    }
+  ]
+}

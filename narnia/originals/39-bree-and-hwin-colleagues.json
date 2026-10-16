@@ -1,0 +1,458 @@
+{
+  "sheet": "39-bree-and-hwin-colleagues.png",
+  "width": 1254,
+  "height": 1254,
+  "columns": 5,
+  "rows": 5,
+  "source": "narnia-later-books-300 bundle (revised), 2026-10-16",
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Bree standing beside map easel",
+      "characters": [
+        "bree"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "design",
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Bree carrying document panniers",
+      "characters": [
+        "bree"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Bree studying map on low stand",
+      "characters": [
+        "bree"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Bree holding delivery tube in mouth",
+      "characters": [
+        "bree"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Bree looking at watch on stand",
+      "characters": [
+        "bree"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "waiting",
+        "waiting-long"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Bree lowering head at spilled papers",
+      "characters": [
+        "bree"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Bree offering document in mouth",
+      "characters": [
+        "bree"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Bree quiet satisfied nod",
+      "characters": [
+        "bree"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Hwin reading ledger on stand",
+      "characters": [
+        "hwin"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "money",
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Hwin carrying organized folders",
+      "characters": [
+        "hwin"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Hwin finding correct file",
+      "characters": [
+        "hwin"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Hwin waiting beside briefcase",
+      "characters": [
+        "hwin"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "waiting",
+        "waiting-long"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Hwin offering envelope",
+      "characters": [
+        "hwin"
+      ],
+      "motifs": [],
+      "view": "full-body",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [
+        "email"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Hwin and Bree with travel bags",
+      "characters": [
+        "bree",
+        "hwin"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Hwin and Bree reviewing map",
+      "characters": [
+        "bree",
+        "hwin"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Bree horse head with tie",
+      "characters": [
+        "bree"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Bree sheepish horse head",
+      "characters": [
+        "bree"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Hwin horse head with scarf",
+      "characters": [
+        "hwin"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Hwin attentive horse head",
+      "characters": [
+        "hwin"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Bree and Hwin heads together",
+      "characters": [
+        "bree",
+        "hwin"
+      ],
+      "motifs": [],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "horse document panniers",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "map with leather straps",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "horse necktie and green scarf",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "low book stand",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "travel bag and compass",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    }
+  ]
+}

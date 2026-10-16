@@ -1,0 +1,495 @@
+{
+  "sheet": "34-eustace-dragon-technical-work.png",
+  "width": 1254,
+  "height": 1254,
+  "columns": 5,
+  "rows": 5,
+  "source": "narnia-later-books-300 bundle (revised), 2026-10-16",
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "typing on tiny laptop",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "inspecting cable with claw",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "repairing server with wrench",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "reading book between foreclaws",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "sorting folders",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "checking planner",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "scheduling"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "watching hourglass",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting",
+        "waiting-long"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "offering notebook with claw",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "holding slightly singed memo sheepishly",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "untangling ethernet cable",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "tangled",
+        "oops"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "trying again with fresh sheet",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "quiet approving nod",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "modest victorious raised foreclaw",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "closing laptop for evening",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "holding headset to ear",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "head portrait with glasses",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "head and foreclaws reading notebook",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "sheepish head portrait",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "portrait",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "upper-body offering pen portrait",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "relieved smiling head portrait",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "portrait",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "tiny laptop and claw-print note",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "singed memo and pencil",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "dragon glasses and tie",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "server box and wrench",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "scale-pattern portfolio",
+      "characters": [],
+      "motifs": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    }
+  ]
+}

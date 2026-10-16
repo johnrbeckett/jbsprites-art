@@ -1,0 +1,479 @@
+{
+  "sheet": "43-later-books-workday-scenes.png",
+  "width": 1254,
+  "height": 1254,
+  "columns": 5,
+  "rows": 5,
+  "source": "narnia-later-books-300 bundle (revised), 2026-10-16",
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Reepicheep at lectern giving presentation",
+      "characters": [
+        "reepicheep"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Puddleglum holding umbrella beside leaky office plant",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Eustace dragon carefully typing tiny laptop",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Caspian planning beside nautical map desk",
+      "characters": [
+        "caspian"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Trumpkin repairing small server rack",
+      "characters": [
+        "trumpkin"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Cornelius teaching beside chalkboard",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Glimfeather owl holding envelope in beak with wings folded",
+      "characters": [
+        "glimfeather"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "email"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Bree horse reading book on stand",
+      "characters": [
+        "bree"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Hwin horse carrying neatly organized panniers",
+      "characters": [
+        "hwin"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "adult Jill photographing easel illustration",
+      "characters": [
+        "jill"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "design"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Uncle Andrew startled by tiny smoking office gadget",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Reepicheep offering pen to Puddleglum",
+      "characters": [
+        "reepicheep",
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Caspian and Cornelius reviewing planner",
+      "characters": [
+        "caspian",
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "scheduling"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Trumpkin and Eustace untangling cable",
+      "characters": [
+        "eustace",
+        "trumpkin"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "scene",
+      "moments": [
+        "tangled",
+        "oops"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Jill and Hwin preparing for fieldwork",
+      "characters": [
+        "hwin",
+        "jill"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Reepicheep quietly checking completed clipboard",
+      "characters": [
+        "reepicheep"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Puddleglum waiting beside hourglass",
+      "characters": [
+        "puddleglum"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "waiting",
+        "waiting-long"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Cornelius searching empty file box",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "not-found",
+        "oops"
+      ],
+      "activities": [
+        "research"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Caspian closing laptop for evening",
+      "characters": [
+        "caspian"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Jill making phone call with suitcase",
+      "characters": [
+        "jill"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel",
+        "mobile"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Uncle Andrew presenting magic ring prototype",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical",
+        "meetings"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Trumpkin calmly sweeping spilled papers",
+      "characters": [
+        "trumpkin"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "oops"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Eustace holding small checked task card",
+      "characters": [
+        "eustace"
+      ],
+      "motifs": [
+        "dragon"
+      ],
+      "view": "scene",
+      "moments": [
+        "done-small",
+        "done"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Bree and Hwin at map stand",
+      "characters": [
+        "bree",
+        "hwin"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "seasons": [],
+      "energy": "moderate"
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Reepicheep and Jill modestly toasting tea after work",
+      "characters": [
+        "reepicheep",
+        "jill"
+      ],
+      "motifs": [],
+      "view": "scene",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [
+        "general"
+      ],
+      "seasons": [],
+      "energy": "subdued"
+    }
+  ]
+}
