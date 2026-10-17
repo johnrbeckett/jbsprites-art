@@ -1,0 +1,414 @@
+{
+  "sheet": "62-dawn-treader-crew-and-the-scrubbs.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Rhince the first mate saluting",
+      "characters": [
+        "rhince"
+      ],
+      "view": "full-body",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Rhince reading a letter from home, wistful",
+      "characters": [
+        "rhince"
+      ],
+      "view": "portrait",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Rynelf hauling a rope, singing",
+      "characters": [
+        "rynelf"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Rynelf tangled in the rigging",
+      "characters": [
+        "rynelf"
+      ],
+      "view": "full-body",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Rynelf coiling the rope neatly afterwards",
+      "characters": [
+        "rynelf"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Pittencream sulking on the dock as the ship sails without him",
+      "characters": [
+        "pittencream"
+      ],
+      "view": "full-body",
+      "moments": [
+        "offline"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Pittencream telling tall tales to two colleagues at a pub table",
+      "characters": [
+        "pittencream"
+      ],
+      "view": "scene",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Pittencream running late with a suitcase",
+      "characters": [
+        "pittencream"
+      ],
+      "view": "full-body",
+      "moments": [
+        "timed-out"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Harold and Alberta Scrubb doing exercises at an open window",
+      "characters": [
+        "harold-scrubb",
+        "alberta-scrubb"
+      ],
+      "view": "scene",
+      "moments": [
+        "morning-brief"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Alberta Scrubb with a clipboard of house rules",
+      "characters": [
+        "alberta-scrubb"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-review"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Harold Scrubb setting off on a bicycle with a briefcase",
+      "characters": [
+        "harold-scrubb"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "The Scrubbs serving a very plain vegetable lunch",
+      "characters": [
+        "harold-scrubb",
+        "alberta-scrubb"
+      ],
+      "view": "scene",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Alberta Scrubb shivering by an open window in the snow",
+      "characters": [
+        "alberta-scrubb"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Harold Scrubb lecturing at a lectern to an empty room",
+      "characters": [
+        "harold-scrubb"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "The Scrubbs puzzling over a postcard from Eustace",
+      "characters": [
+        "harold-scrubb",
+        "alberta-scrubb"
+      ],
+      "view": "scene",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Eustace in a jumper showing his parents a tidy chart",
+      "characters": [
+        "eustace",
+        "harold-scrubb",
+        "alberta-scrubb"
+      ],
+      "view": "scene",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Rhince and Drinian at the chart table",
+      "characters": [
+        "rhince",
+        "drinian"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "scheduling"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Rhince and Rynelf bailing a dinghy with teacups",
+      "characters": [
+        "rhince",
+        "rynelf"
+      ],
+      "view": "scene",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Reepicheep inspecting the crew in a line",
+      "characters": [
+        "reepicheep",
+        "rynelf",
+        "rhince"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-list"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "The sea serpent offering a cup of tea over the rail",
+      "characters": [
+        "sea-serpent"
+      ],
+      "view": "full-body",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "The sea serpent resting by a half-knitted scarf, one knitting needle supported by a gentle tail coil and the other held in its mouth; one continuous body",
+      "characters": [
+        "sea-serpent"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "The sea serpent coiled round a server rack, holding cables",
+      "characters": [
+        "sea-serpent"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "The sea serpent asleep in coils on a beach",
+      "characters": [
+        "sea-serpent"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "The sea serpent and Rynelf playing draughts",
+      "characters": [
+        "sea-serpent",
+        "rynelf"
+      ],
+      "view": "scene",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Rhince waving from a rowing boat at sunset",
+      "characters": [
+        "rhince"
+      ],
+      "view": "full-body",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    }
+  ]
+}

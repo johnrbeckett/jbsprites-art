@@ -1,0 +1,380 @@
+{
+  "sheet": "68-office-workarounds.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Mrs Macready using a switchboard, confidently disconnecting one troublesome cord",
+      "characters": [
+        "mrs-macready"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "email"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Mr Beaver carefully removing a jammed sheet from a laser printer using wooden clothes pegs",
+      "characters": [
+        "mr-beaver"
+      ],
+      "view": "full-body",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Lucy holding out a telephone receiver with an amused patient expression",
+      "characters": [
+        "lucy"
+      ],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Pattertwig delivering one USB drive in a tiny leather dispatch pouch",
+      "characters": [
+        "pattertwig"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Professor Kirke thoughtfully inspecting a tablet through his spectacles",
+      "characters": [
+        "professor-kirke"
+      ],
+      "view": "portrait",
+      "moments": [
+        "morning-brief"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Tumnus balancing a tray of teacups while nudging open an office door with one natural hoof",
+      "characters": [
+        "tumnus"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Puddleglum looking disappointed at a raincoat while sunshine comes through a small window",
+      "characters": [
+        "puddleglum"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Caspian untangling his necktie from a coat hanger while leaving with a travel case",
+      "characters": [
+        "caspian"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Trumpkin using a mechanic's inspection mirror to find a loose plug behind a printer",
+      "characters": [
+        "trumpkin"
+      ],
+      "view": "full-body",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Susan quietly pointing to a blank appointment slot in a planner",
+      "characters": [
+        "susan"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-next"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Edmund photographing an enormous pile of receipts, slightly overwhelmed",
+      "characters": [
+        "edmund"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "money"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Trufflehunter patiently pressing one laptop key with one careful claw",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Bree natural gray HORSE head-and-neck portrait peering suspiciously at a tiny webcam on a stand",
+      "characters": [
+        "bree"
+      ],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Glimfeather natural owl landing beside a leather courier bag, envelope in beak",
+      "characters": [
+        "glimfeather"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Peter practicing a speech into a ribbon microphone while his tie hangs crooked",
+      "characters": [
+        "peter"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "A rotary telephone with receiver off the cradle and cord neatly coiled",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "offline"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "A typewriter with one long continuous sheet of blank paper curling into a tidy roll",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "A small server cabinet with one cable neatly looped around a wooden peg on its side",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "An open dispatch capsule holding a single sealed envelope",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "A tea tray with one neatly placed cup and one biscuit",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "A wooden wireless set with antenna raised, no readable dial text",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "morning-brief"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "An overturned ink bottle dripping into a wastepaper basket beside a blank blotter",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "A leather tool roll opened to reveal a missing central tool slot",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "An unplugged desk fan with a small ribbon tied to its stopped grille",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "offline"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "A completed stack of blank forms secured by one oversized brass clip",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    }
+  ]
+}

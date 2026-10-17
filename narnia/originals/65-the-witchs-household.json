@@ -1,0 +1,405 @@
+{
+  "sheet": "65-the-witchs-household.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Ginarrbrick the dwarf in a fur hat, polishing sledge bells",
+      "characters": [
+        "ginarrbrick"
+      ],
+      "view": "full-body",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Ginarrbrick driving a reindeer sledge through snow",
+      "characters": [
+        "ginarrbrick"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Ginarrbrick buried behind a towering appointment book",
+      "characters": [
+        "ginarrbrick"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "scheduling"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Ginarrbrick hurrying with a tray of Turkish Delight",
+      "characters": [
+        "ginarrbrick"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Ginarrbrick and the sledge stuck in a snowdrift",
+      "characters": [
+        "ginarrbrick"
+      ],
+      "view": "full-body",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "The White Witch turning the office thermostat right down",
+      "characters": [
+        "white-witch"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "moderate",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Tumnus and Mr Beaver in scarves and mittens at frosted desks",
+      "characters": [
+        "tumnus",
+        "mr-beaver"
+      ],
+      "view": "scene",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Tumnus sneaking the thermostat back up",
+      "characters": [
+        "tumnus"
+      ],
+      "view": "full-body",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Edmund eyeing a box of Turkish Delight in the break room",
+      "characters": [
+        "edmund"
+      ],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "An empty Turkish Delight box with powdered-sugar crumbs",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "The office water cooler frozen solid",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "offline"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Maugrim as a gruff security guard checking passes",
+      "characters": [
+        "maugrim"
+      ],
+      "view": "full-body",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Maugrim asleep in the guard's chair",
+      "characters": [
+        "maugrim"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Maugrim the natural four-legged wolf with a telephone receiver upside down in his mouth, confused",
+      "characters": [
+        "maugrim"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "The Witch dictating a letter to Ginarrbrick",
+      "characters": [
+        "white-witch",
+        "ginarrbrick"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "The Witch reviewing a very long list with a quill",
+      "characters": [
+        "white-witch"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-review"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Icicles hanging off an overflowing in-tray",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "timed-out"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "The thaw dripping from the office ceiling into buckets",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Father Christmas striding into the Witch's office with presents",
+      "characters": [
+        "father-christmas"
+      ],
+      "view": "full-body",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": [
+        "christmas"
+      ]
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Ginarrbrick wound up in the reindeer's reins",
+      "characters": [
+        "ginarrbrick"
+      ],
+      "view": "full-body",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "The Witch's sledge with a blank parking ticket on it",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Ginarrbrick yawning at the end of a long winter",
+      "characters": [
+        "ginarrbrick"
+      ],
+      "view": "full-body",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "The Witch glaring at a cheerful robin on her windowsill",
+      "characters": [
+        "white-witch",
+        "robin"
+      ],
+      "view": "scene",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "The Witch tapping a calendar that never reaches Christmas",
+      "characters": [
+        "white-witch"
+      ],
+      "view": "portrait",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "A snow globe of the Witch's castle on a desk",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "sheet": "64-last-battle-sentinels-and-schemers.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Roonwit the centaur presenting a star chart, grave",
+      "characters": [
+        "roonwit"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Roonwit warning with a raised finger while a busy room ignores him",
+      "characters": [
+        "roonwit"
+      ],
+      "view": "scene",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Roonwit galloping in with a report",
+      "characters": [
+        "roonwit"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Roonwit at a window at dawn",
+      "characters": [
+        "roonwit"
+      ],
+      "view": "full-body",
+      "moments": [
+        "morning-brief"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Roonwit nodding, satisfied",
+      "characters": [
+        "roonwit"
+      ],
+      "view": "portrait",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Emeth arriving with a box of desk things, eager",
+      "characters": [
+        "emeth"
+      ],
+      "view": "full-body",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Emeth at a crossroads of corridors, asking the way",
+      "characters": [
+        "emeth"
+      ],
+      "view": "full-body",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Emeth reading the staff handbook with total sincerity",
+      "characters": [
+        "emeth"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Emeth and Tirian shaking hands warmly",
+      "characters": [
+        "emeth",
+        "tirian"
+      ],
+      "view": "scene",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Emeth bowing politely to a vending machine",
+      "characters": [
+        "emeth"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Griffle the dwarf hugging the good stapler, refusing to share",
+      "characters": [
+        "griffle"
+      ],
+      "view": "full-body",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Griffle sulking over one unfinished form he must deal with next, arms folded",
+      "characters": [
+        "griffle"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-next"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Griffle counting rations into tins",
+      "characters": [
+        "griffle"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "money"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Wraggle the satyr dancing on a desk, papers flying",
+      "characters": [
+        "wraggle"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Wraggle playing pipes in the break room",
+      "characters": [
+        "wraggle"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Slinkey the fox sweet-talking the receptionist",
+      "characters": [
+        "slinkey"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "email"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Slinkey with a too-good-to-be-true smile, offering a deal",
+      "characters": [
+        "slinkey"
+      ],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Ginger and Slinkey plotting over a map, caught by Jewel",
+      "characters": [
+        "ginger",
+        "slinkey",
+        "jewel"
+      ],
+      "view": "scene",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Wraggle and Slinkey carrying a crate far too big for them",
+      "characters": [
+        "wraggle",
+        "slinkey"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Ginger snooping through a filing cabinet by torchlight",
+      "characters": [
+        "ginger"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Ginger listening at a door with an ear trumpet",
+      "characters": [
+        "ginger"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Ginger frozen in a desk lamp's spotlight",
+      "characters": [
+        "ginger"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Ginger with a magnifying glass on a trail that stops",
+      "characters": [
+        "ginger"
+      ],
+      "view": "full-body",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Roonwit standing beside Farsight comparing a report; complete four-legged centaur profile",
+      "characters": [
+        "roonwit",
+        "farsight"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Emeth and Tirian sharing tea at sunset",
+      "characters": [
+        "emeth",
+        "tirian"
+      ],
+      "view": "scene",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    }
+  ]
+}

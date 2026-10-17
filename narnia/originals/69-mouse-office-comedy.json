@@ -1,0 +1,422 @@
+{
+  "sheet": "69-mouse-office-comedy.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Reepicheep in navy waistcoat pulling a huge typewriter carriage with both paws",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Two office mice carrying one enormous rubber stamp between them",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Mouse standing on three closed books to reach a brass door handle",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Mouse pushing a single giant pencil like a wheelbarrow",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Two office mice seated with a huge teacup between them",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Reepicheep tangled in one loop of typewriter ribbon, both paws visible",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "scene",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Mouse inspecting a cheese wedge with a magnifying glass",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Mouse carrying a folded umbrella twice his height",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Two mice rolling an oversize spool of red string",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Mouse solemnly presenting a tiny crumb on a silver tray",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Reepicheep using a small stepladder to answer a Bakelite telephone",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Mouse asleep upright against a large eraser",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Two mice tugging opposite ends of the same carbon-copy sheet",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Mouse balancing an enormous biscuit upright on the floor",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Reepicheep saluting beside a small paper airplane",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Two mice using a ruler as a bench, seated with separate legs",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Mouse craning at a towering accordion file",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Mouse hauling a briefcase on a tiny wooden trolley",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Reepicheep proudly wearing a paperclip as a tie clip",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Mouse polishing an ornate oversized postage stamp",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Two mice carrying a large spoon-shaped bowl of hot tea",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Mouse peeking from a wooden desktop pigeonhole; deliberate partial view",
+      "characters": [
+        "mouse"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Reepicheep sword sheathed, politely offering a tiny resignation-sized scrap",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Mouse gently ushering a beetle out with a dustpan",
+      "characters": [
+        "mouse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Two mice high-fiving after lifting a single sealed envelope",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    }
+  ]
+}

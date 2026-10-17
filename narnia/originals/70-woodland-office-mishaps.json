@@ -1,0 +1,403 @@
+{
+  "sheet": "70-woodland-office-mishaps.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Trufflehunter badger in mustard vest discovers a biscuit balanced on his head",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Pattertwig red squirrel in green vest stuffs a nut into a filing drawer already full of nuts",
+      "characters": [
+        "pattertwig"
+      ],
+      "view": "scene",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Tumnus beside a coat stand, gesturing at a clothing mishap",
+      "characters": [
+        "tumnus"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Teal sea serpent with long neck and coiled body peers apologetically at a tiny teacup",
+      "characters": [
+        "sea-serpent"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Badger holding a very long adding-machine receipt, amused",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "money"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Red squirrel beside a desk fan with tail blown into a huge fluffy puff",
+      "characters": [
+        "pattertwig"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Tumnus seated, ruefully inspecting fingers",
+      "characters": [
+        "tumnus"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Teal sea serpent coiled around a swivel chair too small for him, head visible",
+      "characters": [
+        "sea-serpent"
+      ],
+      "view": "scene",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Badger opens lunchbox to find only one pea",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Red squirrel solemnly weighs one acorn on a brass postal scale",
+      "characters": [
+        "pattertwig"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "money"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Tumnus carrying an umbrella indoors dripping into a wastepaper basket",
+      "characters": [
+        "tumnus"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Teal sea serpent wearing a tiny bow tie and holding a blank memo gently in mouth",
+      "characters": [
+        "sea-serpent"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Badger calmly untangles knitting-like telephone cord, both paws visible",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "scene",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Squirrel carrying a teacup with both paws while tail balances a biscuit",
+      "characters": [
+        "pattertwig"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Tumnus looking at an inside-out umbrella on the floor",
+      "characters": [
+        "tumnus"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Sea serpent nose-to-nose with his reflection in a polished kettle",
+      "characters": [
+        "sea-serpent"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Badger dusting flour off his mustard waistcoat after baking",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Squirrel opening a briefcase filled with leaves instead of documents",
+      "characters": [
+        "pattertwig"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Tumnus trying to fit a huge rolled chart into a little leather briefcase",
+      "characters": [
+        "tumnus"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Sea serpent carefully threading his long neck through a low office doorway",
+      "characters": [
+        "sea-serpent"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Badger wearing spectacles over spectacles, puzzled",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "portrait",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Squirrel triumphant beside three perfectly size-sorted acorns",
+      "characters": [
+        "pattertwig"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Tumnus holding an empty mug and a tiny lantern, looking puzzled",
+      "characters": [
+        "tumnus"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Sea serpent sleeping with chin on a small cushion, tail coil clearly connected",
+      "characters": [
+        "sea-serpent"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Badger and squirrel sharing one absurdly small umbrella, both complete bodies",
+      "characters": [
+        "trufflehunter",
+        "pattertwig"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    }
+  ]
+}

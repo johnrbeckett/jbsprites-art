@@ -1,0 +1,400 @@
+{
+  "sheet": "66-the-1940s-office.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Mrs Macready at a switchboard, headset on, plugging cords",
+      "characters": [
+        "mrs-macready"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "email"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Professor Kirke dictating to Lucy at a typewriter",
+      "characters": [
+        "professor-kirke",
+        "lucy"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "The typing pool: Lucy, Susan and Polly at typewriters",
+      "characters": [
+        "lucy",
+        "susan",
+        "polly"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Tumnus wheeling a tea trolley",
+      "characters": [
+        "tumnus"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Mrs Beaver presenting a cake on the tea trolley",
+      "characters": [
+        "mrs-beaver"
+      ],
+      "view": "full-body",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "A message capsule whooshing up a pneumatic tube",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Trumpkin catching a pneumatic capsule on the nose",
+      "characters": [
+        "trumpkin"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Peter tuning a wireless set for the morning news",
+      "characters": [
+        "peter"
+      ],
+      "view": "full-body",
+      "moments": [
+        "morning-brief"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Edmund with carbon paper smudged all over his hands",
+      "characters": [
+        "edmund"
+      ],
+      "view": "portrait",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Susan filing index cards into a long drawer",
+      "characters": [
+        "susan"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-add"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Trufflehunter with a rubber stamp and a stack of forms",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-review"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Doctor Cornelius searching a huge card catalogue",
+      "characters": [
+        "doctor-cornelius"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Puddleglum tapping the barometer in the corridor",
+      "characters": [
+        "puddleglum"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Reepicheep facing down a jammed typewriter, sword raised",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "A Bakelite telephone ringing on an empty desk",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "A blank ration book and coupons on a desk",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "money"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Mr Beaver fixing a rattling radiator with a spanner",
+      "characters": [
+        "mr-beaver"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "moderate",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Blackout curtains drawn, one desk lamp glowing",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Tumnus with umbrella and parcels at a red pillar box",
+      "characters": [
+        "tumnus"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Eustace running for a double-decker bus as it pulls away",
+      "characters": [
+        "eustace"
+      ],
+      "view": "full-body",
+      "moments": [
+        "timed-out"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Lucy in a mackintosh at a bus stop in the rain",
+      "characters": [
+        "lucy"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Caspian studying a corkboard map strung with thread",
+      "characters": [
+        "caspian"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "scheduling"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "The Pevensies round the wireless, cheering",
+      "characters": [
+        "peter",
+        "susan",
+        "edmund",
+        "lucy"
+      ],
+      "view": "scene",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Glimfeather as night watchman with a lantern",
+      "characters": [
+        "glimfeather"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Coats and hats on a coat stand at dusk",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    }
+  ]
+}

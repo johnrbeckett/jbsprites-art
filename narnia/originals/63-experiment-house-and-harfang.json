@@ -1,0 +1,398 @@
+{
+  "sheet": "63-experiment-house-and-harfang.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "The Head juggling a flurry of loose papers",
+      "characters": [
+        "the-head"
+      ],
+      "view": "full-body",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "The Head as a school inspector with a clipboard",
+      "characters": [
+        "the-head"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-review"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "The Head trying to chair a very noisy meeting",
+      "characters": [
+        "the-head"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "The Head examining an empty slot in an otherwise ordered filing cabinet",
+      "characters": [
+        "the-head"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-gaps"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "The Head beaming beside a blank new nameplate",
+      "characters": [
+        "the-head"
+      ],
+      "view": "portrait",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "The Head chasing papers blown off the desk",
+      "characters": [
+        "the-head"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "The Head at a typewriter with a mug of cocoa",
+      "characters": [
+        "the-head"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Jill peeking out from a gym cupboard, playing hide and seek",
+      "characters": [
+        "jill"
+      ],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Jill and Eustace slipping out of a classroom door",
+      "characters": [
+        "jill",
+        "eustace"
+      ],
+      "view": "scene",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "A brass school bell beside an unanswered stack of post",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "The King of Harfang, jolly, with an enormous teacup",
+      "characters": [
+        "harfang-king"
+      ],
+      "view": "full-body",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "The Queen of Harfang fussing over guest towels",
+      "characters": [
+        "harfang-queen"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "scheduling"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "The King and Queen of Harfang at a giant dining table",
+      "characters": [
+        "harfang-king",
+        "harfang-queen"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "A giant's hot-water bottle on a giant armchair",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Jill, Eustace and Puddleglum lost in a giant's hallway",
+      "characters": [
+        "jill",
+        "eustace",
+        "puddleglum"
+      ],
+      "view": "scene",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Jill camped under a giant's napkin like a tent",
+      "characters": [
+        "jill"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "The King of Harfang laughing until he cries",
+      "characters": [
+        "harfang-king"
+      ],
+      "view": "portrait",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "The Queen of Harfang dozing over knitting needles like poles",
+      "characters": [
+        "harfang-queen"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "A giant snowman at the castle gate",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "morning-brief"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Puddleglum on a ladder reading a giant's wall calendar",
+      "characters": [
+        "puddleglum"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "scheduling"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "The giants' great hall lit for Christmas",
+      "characters": [],
+      "view": "environment",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": [
+        "christmas"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "The King of Harfang sitting on the in-tray by accident",
+      "characters": [
+        "harfang-king"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Puddleglum with an umbrella in the castle doorway in snow",
+      "characters": [
+        "puddleglum"
+      ],
+      "view": "full-body",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "A tiny dispatch box on a giant's table",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "The Queen of Harfang waving a huge handkerchief from a tower",
+      "characters": [
+        "harfang-queen"
+      ],
+      "view": "portrait",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "sheet": "67-specialists-at-work.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Reepicheep and four mice carrying a laptop like a sedan chair",
+      "characters": [
+        "reepicheep",
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "A chain of mice passing envelopes along a desk",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Mice all hauling on one stuck drawer",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Mice cheering on top of a finished stack of reports",
+      "characters": [
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Trufflehunter patiently untangling a ball of red tape",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "full-body",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Trufflehunter approving forms one at a time, unhurried",
+      "characters": [
+        "trufflehunter"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-now"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Pattertwig zipping between desks on a wheeled chair",
+      "characters": [
+        "pattertwig"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Pattertwig juggling three phones at once",
+      "characters": [
+        "pattertwig"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "mobile"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Ginger in dark glasses reading someone else's post",
+      "characters": [
+        "ginger"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "email"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Ginger hiding inside a filing cabinet drawer",
+      "characters": [
+        "ginger"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Puddleglum presenting a gloomy rain chart to a meeting",
+      "characters": [
+        "puddleglum"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Puddleglum holding an umbrella over a server rack",
+      "characters": [
+        "puddleglum"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Puddleglum, mildly astonished that it worked",
+      "characters": [
+        "puddleglum"
+      ],
+      "view": "portrait",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Reepicheep fencing a jammed printer",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Reepicheep bowing to the printer once it works",
+      "characters": [
+        "reepicheep"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Bree preening in a laptop camera before a call",
+      "characters": [
+        "bree"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "design"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Mr Beaver patching a server rack with logs and mud",
+      "characters": [
+        "mr-beaver"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Mrs Beaver packing everything, sewing machine included, into a laptop bag",
+      "characters": [
+        "mrs-beaver"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Eustace writing a grumpy diary entry about the meeting",
+      "characters": [
+        "eustace"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Eustace as a small dragon warming a chilly server room",
+      "characters": [
+        "eustace"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "moderate",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "The sea serpent untangling the whole office's cables at once",
+      "characters": [
+        "sea-serpent"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Sea serpent supporting a projector screen by gripping its top bar, one continuous coiled body",
+      "characters": [
+        "sea-serpent"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Father Christmas as IT, handing out new laptops",
+      "characters": [
+        "father-christmas"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "celebratory",
+      "seasons": [
+        "christmas"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Glimfeather on the night shift among glowing monitors",
+      "characters": [
+        "glimfeather"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Tumnus and the mice sharing cake after a launch",
+      "characters": [
+        "tumnus",
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    }
+  ]
+}

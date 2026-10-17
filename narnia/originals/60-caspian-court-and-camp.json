@@ -1,0 +1,410 @@
+{
+  "sheet": "60-caspian-court-and-camp.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Glenstorm the centaur at a desk with a brass telescope",
+      "characters": [
+        "glenstorm"
+      ],
+      "view": "full-body",
+      "moments": [
+        "morning-brief"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Glenstorm pinning stars onto a big wall chart",
+      "characters": [
+        "glenstorm"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "scheduling"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Glenstorm tapping a chart, quietly proven right",
+      "characters": [
+        "glenstorm"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Glenstorm's three sons standing to attention with folders",
+      "characters": [
+        "centaur"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-list"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Wimbleweather the giant, bashful, holding a tiny teacup",
+      "characters": [
+        "wimbleweather"
+      ],
+      "view": "full-body",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Wimbleweather having knocked over a filing cabinet, mortified",
+      "characters": [
+        "wimbleweather"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Wimbleweather weeping into a huge handkerchief, a mouse patting his boot",
+      "characters": [
+        "wimbleweather",
+        "mouse"
+      ],
+      "view": "scene",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Wimbleweather typing on a laptop with one enormous finger",
+      "characters": [
+        "wimbleweather"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "technical"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Wimbleweather wedged in an office doorway",
+      "characters": [
+        "wimbleweather"
+      ],
+      "view": "full-body",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Glozelle and Sopespian whispering behind a pillar",
+      "characters": [
+        "glozelle",
+        "sopespian"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Sopespian peering through a keyhole",
+      "characters": [
+        "sopespian"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Glozelle polishing his medals, smug",
+      "characters": [
+        "glozelle"
+      ],
+      "view": "portrait",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Glozelle and Sopespian caught red-handed with a memo",
+      "characters": [
+        "glozelle",
+        "sopespian"
+      ],
+      "view": "scene",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Queen Prunaprismia at the head of the board table, unimpressed",
+      "characters": [
+        "prunaprismia"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Prunaprismia tapping a closed fan, waiting",
+      "characters": [
+        "prunaprismia"
+      ],
+      "view": "portrait",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Caspian's Nurse telling a story by the fire",
+      "characters": [
+        "nurse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "The Nurse handing Caspian a packed lunch and scarf",
+      "characters": [
+        "nurse",
+        "caspian"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "travel"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "The Nurse dozing over her knitting",
+      "characters": [
+        "nurse"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Gwendolen in a stuffy training room, gazing out of the window",
+      "characters": [
+        "gwendolen"
+      ],
+      "view": "full-body",
+      "moments": [
+        "timed-out"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Gwendolen climbing cheerfully out of the window",
+      "characters": [
+        "gwendolen"
+      ],
+      "view": "full-body",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Gwendolen dancing with dryads in blossom",
+      "characters": [
+        "gwendolen",
+        "dryad"
+      ],
+      "view": "scene",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Glenstorm galloping with a dispatch case",
+      "characters": [
+        "glenstorm"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Wimbleweather holding a ladder steady for Pattertwig",
+      "characters": [
+        "wimbleweather",
+        "pattertwig"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Glenstorm under a cloudy night sky, telescope capped and observation equipment packed away",
+      "characters": [
+        "glenstorm"
+      ],
+      "view": "full-body",
+      "moments": [
+        "offline"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Wimbleweather beaming with a gold star on his lapel",
+      "characters": [
+        "wimbleweather"
+      ],
+      "view": "portrait",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    }
+  ]
+}

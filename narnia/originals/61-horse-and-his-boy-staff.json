@@ -1,0 +1,410 @@
+{
+  "sheet": "61-horse-and-his-boy-staff.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Chervy the stag skidding in with a message pouch",
+      "characters": [
+        "chervy"
+      ],
+      "view": "full-body",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Chervy panting beside a stopwatch",
+      "characters": [
+        "chervy"
+      ],
+      "view": "full-body",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Chervy bounding over a hedge with a parcel",
+      "characters": [
+        "chervy"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Chervy waiting at a garden gate, ears up",
+      "characters": [
+        "chervy"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Chervy with his antlers caught in a coat stand",
+      "characters": [
+        "chervy"
+      ],
+      "view": "full-body",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Arsheesh the fisherman counting coins at a rickety desk",
+      "characters": [
+        "arsheesh"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "money"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Arsheesh grumbling over an empty net",
+      "characters": [
+        "arsheesh"
+      ],
+      "view": "full-body",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Arsheesh refusing a request with a raised palm",
+      "characters": [
+        "arsheesh"
+      ],
+      "view": "portrait",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Arsheesh dozing in his boat",
+      "characters": [
+        "arsheesh"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Arsheesh dropping his ledger in surprise",
+      "characters": [
+        "arsheesh"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Lord Dar and Lord Darrin bowing in unison",
+      "characters": [
+        "dar",
+        "darrin"
+      ],
+      "view": "scene",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Dar reading the morning dispatches to King Lune",
+      "characters": [
+        "dar",
+        "king-lune"
+      ],
+      "view": "scene",
+      "moments": [
+        "morning-brief"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Darrin taking minutes with a fountain pen",
+      "characters": [
+        "darrin"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-add"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Dar and Darrin checking a committee table with one conspicuously empty place setting",
+      "characters": [
+        "dar",
+        "darrin"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-gaps"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Dar and Darrin arguing over which way up a map goes",
+      "characters": [
+        "dar",
+        "darrin"
+      ],
+      "view": "scene",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "King Lune, Dar and Darrin raising mugs",
+      "characters": [
+        "king-lune",
+        "dar",
+        "darrin"
+      ],
+      "view": "scene",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Darrin checking a pocket watch at the castle gate",
+      "characters": [
+        "darrin"
+      ],
+      "view": "portrait",
+      "moments": [
+        "timed-out"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Bree admiring his mane in a car's wing mirror",
+      "characters": [
+        "bree"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "design"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Bree posing on a video call",
+      "characters": [
+        "bree"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Hwin quietly finishing the work Bree is boasting about",
+      "characters": [
+        "hwin",
+        "bree"
+      ],
+      "view": "scene",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Corin vaulting a stack of in-trays",
+      "characters": [
+        "corin"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Aravis typing a crisp reply",
+      "characters": [
+        "aravis"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "email"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Shasta asleep at his desk under a pile of maps",
+      "characters": [
+        "shasta"
+      ],
+      "view": "full-body",
+      "moments": [
+        "timed-out"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Lasaraleen with a dozen shopping bags and a phone",
+      "characters": [
+        "lasaraleen"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "mobile"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Chervy and Pattertwig racing to deliver the same letter",
+      "characters": [
+        "chervy",
+        "pattertwig"
+      ],
+      "view": "scene",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    }
+  ]
+}

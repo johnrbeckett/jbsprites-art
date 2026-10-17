@@ -1,0 +1,400 @@
+{
+  "sheet": "59-aunt-letty-runs-the-office.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "Aunt Letty in a tweed suit and pearls, waving from behind a typewriter",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "full-body",
+      "moments": [
+        "hello"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Aunt Letty typing briskly at a heavy black typewriter",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Aunt Letty sorting the morning post with a brass letter opener",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "portrait",
+      "moments": [
+        "morning-brief"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Aunt Letty pouring tea from a big brown teapot",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "portrait",
+      "moments": [
+        "done-small"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Aunt Letty barring the study door, arms folded",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "scene",
+      "moments": [
+        "blocked"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "Aunt Letty and Uncle Andrew tugging opposite ends of a ledger",
+      "characters": [
+        "aunt-letty",
+        "uncle-andrew"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "money"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Uncle Andrew sneaking a biscuit from the tin behind her back",
+      "characters": [
+        "uncle-andrew",
+        "aunt-letty"
+      ],
+      "view": "scene",
+      "moments": [
+        "your-turn"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Aunt Letty filing carbon copies into a wooden cabinet",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "tracker-add"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Aunt Letty on a Bakelite telephone, pencil poised",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "scheduling"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Aunt Letty peering over her spectacles at a smoking contraption",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "portrait",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "Uncle Andrew's contraption sparking from a frayed cable",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Aunt Letty bandaging Uncle Andrew's singed finger",
+      "characters": [
+        "aunt-letty",
+        "uncle-andrew"
+      ],
+      "view": "scene",
+      "moments": [
+        "retrying"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Digory delivering a telegram envelope to her desk",
+      "characters": [
+        "digory",
+        "aunt-letty"
+      ],
+      "view": "scene",
+      "moments": [
+        "sent"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Polly at a switchboard, plugging in cords",
+      "characters": [
+        "polly"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "email"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Polly hopelessly tangled in switchboard cords",
+      "characters": [
+        "polly"
+      ],
+      "view": "full-body",
+      "moments": [
+        "tangled"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "Aunt Letty inspecting a stopped office clock with its pendulum detached",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "portrait",
+      "moments": [
+        "offline"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Aunt Letty asleep in an armchair, knitting in her lap",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting-long"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "An empty in-tray and a tidy blotter at day's end",
+      "characters": [],
+      "view": "object",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Aunt Letty pinning on her hat at the coat stand",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "full-body",
+      "moments": [
+        "signing-off"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Aunt Letty knitting one very long scarf for the whole office",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "energy": "subdued",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "Aunt Letty with a tray of mince pies at the office party",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "portrait",
+      "moments": [
+        "big-win"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": [
+        "christmas"
+      ]
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Aunt Letty searching a drawer by torchlight",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "full-body",
+      "moments": [
+        "not-found"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Aunt Letty's hand pulling the contraption's plug from the wall",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "hands",
+      "moments": [
+        "offline"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Uncle Andrew presenting a chalkboard of shapes and arrows",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "meetings"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Aunt Letty raising her teacup in a toast",
+      "characters": [
+        "aunt-letty"
+      ],
+      "view": "portrait",
+      "moments": [
+        "done"
+      ],
+      "activities": [],
+      "energy": "celebratory",
+      "seasons": []
+    }
+  ]
+}

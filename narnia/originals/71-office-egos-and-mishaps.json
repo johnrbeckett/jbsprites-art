@@ -1,0 +1,396 @@
+{
+  "sheet": "71-office-egos-and-mishaps.png",
+  "columns": 5,
+  "rows": 5,
+  "assets": [
+    {
+      "row": 1,
+      "column": 1,
+      "description": "White Witch in white trouser suit glaring at a frozen teapot on desk",
+      "characters": [
+        "white-witch"
+      ],
+      "view": "portrait",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 2,
+      "description": "Miraz bearded man in charcoal suit struggling to open a jammed filing drawer",
+      "characters": [
+        "miraz"
+      ],
+      "view": "scene",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 3,
+      "description": "Ginger orange tabby in plum vest caught with head inside biscuit tin, body and tail clear",
+      "characters": [
+        "ginger"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 4,
+      "description": "Uncle Andrew elderly wild-haired man in dark suit startled by a popping toaster",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 1,
+      "column": 5,
+      "description": "Tisroc portly black-bearded king in burgundy suit and crown sitting beside an absurdly small desk",
+      "characters": [
+        "tisroc"
+      ],
+      "view": "scene",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "writing"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 1,
+      "description": "White Witch carefully scraping frost from a typewriter with a ruler",
+      "characters": [
+        "white-witch"
+      ],
+      "view": "portrait",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 2,
+      "description": "Miraz stamp pad stains his palm red, annoyed",
+      "characters": [
+        "miraz"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 3,
+      "description": "Ginger peeking guiltily over a knocked-over wastepaper basket",
+      "characters": [
+        "ginger"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 4,
+      "description": "Uncle Andrew wearing two different ordinary shoes, looking down",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 2,
+      "column": 5,
+      "description": "Tisroc examining an enormous empty silver serving platter",
+      "characters": [
+        "tisroc"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 1,
+      "description": "White Witch holding a completely wilted office plant, bewildered",
+      "characters": [
+        "white-witch"
+      ],
+      "view": "portrait",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 2,
+      "description": "Miraz trying to read a newspaper unfolded far too wide",
+      "characters": [
+        "miraz"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 3,
+      "description": "Ginger watching a rolling pencil with intense feline concentration, four paws natural",
+      "characters": [
+        "ginger"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "focus"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 4,
+      "description": "Uncle Andrew's spectacles slipping onto the tip of his nose while holding a memo",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "research"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 3,
+      "column": 5,
+      "description": "Tisroc politely waiting behind a small velvet queue barrier",
+      "characters": [
+        "tisroc"
+      ],
+      "view": "full-body",
+      "moments": [
+        "waiting"
+      ],
+      "activities": [],
+      "energy": "subdued",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 1,
+      "description": "White Witch white suit caught in gentle blast from a desk fan, papers held firmly",
+      "characters": [
+        "white-witch"
+      ],
+      "view": "portrait",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 2,
+      "description": "Miraz caught wearing slippers under formal pinstripe trousers",
+      "characters": [
+        "miraz"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 3,
+      "description": "Ginger sitting in an open cardboard archive box too small for him",
+      "characters": [
+        "ginger"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 4,
+      "description": "Uncle Andrew carrying a tower of mismatched teacups, both hands visible",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 4,
+      "column": 5,
+      "description": "Tisroc attempting to fasten a too-small briefcase, seated normally",
+      "characters": [
+        "tisroc"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 1,
+      "description": "White Witch grudgingly accepting a tiny pink thank-you bouquet",
+      "characters": [
+        "white-witch"
+      ],
+      "view": "portrait",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "handoff"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 2,
+      "description": "Miraz looks suspiciously at a squeaky office chair",
+      "characters": [
+        "miraz"
+      ],
+      "view": "scene",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 3,
+      "description": "Ginger startled while grooming his curled tail",
+      "characters": [
+        "ginger"
+      ],
+      "view": "full-body",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 4,
+      "description": "Uncle Andrew peering through a brass telescope",
+      "characters": [
+        "uncle-andrew"
+      ],
+      "view": "portrait",
+      "moments": [
+        "oops"
+      ],
+      "activities": [],
+      "energy": "moderate",
+      "seasons": []
+    },
+    {
+      "row": 5,
+      "column": 5,
+      "description": "Tisroc holding a tiny sandwich between normal thumb and finger",
+      "characters": [
+        "tisroc"
+      ],
+      "view": "full-body",
+      "moments": [
+        "start"
+      ],
+      "activities": [
+        "general"
+      ],
+      "energy": "moderate",
+      "seasons": []
+    }
+  ]
+}
